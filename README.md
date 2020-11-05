@@ -1,1 +1,1 @@
-# Javascript Refresher Project
+# Warm-up : Javascript Basics
