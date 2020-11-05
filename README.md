@@ -1,1 +1,1 @@
-# Dicee
+# Javascript Refresher Project
